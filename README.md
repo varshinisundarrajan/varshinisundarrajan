@@ -16,9 +16,8 @@
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
-
+<b>Passionate learner and developer</b> Building <b>full-stack web apps</b> with modern tools.
+Currently exploring <b>JavaScript, React, HTML, CSS,</b> while strengthening <b>C, C++, and Java</b> skills for problem-solving and algorithms. Always eager to <b>learn, create, and grow!</b>
 </div>  
 
 
