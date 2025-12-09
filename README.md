@@ -76,15 +76,12 @@ Currently exploring <b>JavaScript, React, HTML, CSS,</b> while strengthening <b>
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
+| **LeetCode** | 30+ | Knight Rank |
+| **CodeChef** | 788 | 1049 |
 | **CodeForces** | 136 | 969 |
 | **GeeksForGeeks** | 65+ | - |
 
 ###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
 ---
 
 ##  GitHub Analytics
