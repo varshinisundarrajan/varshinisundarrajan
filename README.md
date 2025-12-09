@@ -128,12 +128,12 @@ Currently exploring <b>JavaScript, React, HTML, CSS,</b> while strengthening <b>
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
+ -Advanced React concepts & UI optimization
+ -JavaScript for building apps and real-world solutions
+ -Responsive web design using HTML & CSS
+ -Frontend development best practices
 
+Frontend development best practices
 ---
 
 ##  Connect with Me  
