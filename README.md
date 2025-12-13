@@ -76,10 +76,9 @@ Currently exploring <b>JavaScript, React, HTML, CSS,</b> while strengthening <b>
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 30+ | Knight Rank |
-| **CodeChef** | 788 | 1049 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 30+ | - |
+| **CodeChef** | 788 | 1078 |
+| **GeeksForGeeks** | 50+ | - |
 
 ###  **Hackathon Achievements**
 ---
